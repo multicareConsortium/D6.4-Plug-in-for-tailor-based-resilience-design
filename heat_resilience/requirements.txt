@@ -1,0 +1,5 @@
+numpy>=2.3.1
+pandas>=2.3.0
+geomeppy>=0.14.0
+matplotlib>=3.10.3
+pythermalcomfort>=3.3.0
