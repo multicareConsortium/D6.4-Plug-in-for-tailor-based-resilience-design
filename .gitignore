@@ -173,5 +173,3 @@ cython_debug/
 # Custom
 .ruff_cache
 .vscode
-prototype.ipynb
-annotations.txt
